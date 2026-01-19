@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/michalby24/bump-main/compare/v0.1.0...v0.2.0) (2026-01-19)
+
+
+### Features
+
+* next ([#7](https://github.com/michalby24/bump-main/issues/7)) ([a068353](https://github.com/michalby24/bump-main/commit/a06835307073453ff931fba32330e98660b7c6f7))
+
 ## [0.1.0-rc.1](https://github.com/michalby24/bump-main/compare/v0.0.1-rc.2...v0.1.0-rc.1) (2026-01-19)
 
 
