@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.0-rc.1](https://github.com/michalby24/bump-main/compare/v0.2.0...v0.1.0-rc.1) (2026-01-19)
+
+
+### Features
+
+* b ([#5](https://github.com/michalby24/bump-main/issues/5)) ([ad59384](https://github.com/michalby24/bump-main/commit/ad5938495377b5bc5c65adf71c33a111dc9ed88b))
+
+
+### Bug Fixes
+
+* a ([#2](https://github.com/michalby24/bump-main/issues/2)) ([a010247](https://github.com/michalby24/bump-main/commit/a010247edaa2a1bfaee303e3564d5ac1deb622b2))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([2e5e20f](https://github.com/michalby24/bump-main/commit/2e5e20f2b6ac6d36cc2e050c0adef5a20dcd6673))
+* enforce correct rc version ([c52a51f](https://github.com/michalby24/bump-main/commit/c52a51f6814077e13cf198448f1bb5590df6d72c))
+* enforce correct rc version ([d001be4](https://github.com/michalby24/bump-main/commit/d001be4de60a4abc1c141086c27b9be40416d9a4))
+
 ## [0.2.0](https://github.com/michalby24/bump-main/compare/v0.1.0...v0.2.0) (2026-01-19)
 
 
