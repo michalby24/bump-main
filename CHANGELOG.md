@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0-rc.1](https://github.com/michalby24/bump-main/compare/v0.0.1-rc.2...v0.1.0-rc.1) (2026-01-19)
+
+
+### Features
+
+* b ([#5](https://github.com/michalby24/bump-main/issues/5)) ([db24ffc](https://github.com/michalby24/bump-main/commit/db24ffc7ffc7235aa88f64ca086f1102ee6a29e3))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([59fc50a](https://github.com/michalby24/bump-main/commit/59fc50aacac7519d3aed89dc8398699785224f65))
+
 ## 0.0.1-rc.2 (2026-01-19)
 
 
